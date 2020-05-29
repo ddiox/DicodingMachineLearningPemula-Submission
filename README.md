@@ -1,5 +1,5 @@
 # DicodingMachineLearningPemula-Submission
-Final Submission Dicoding
+Final submission of https://www.dicoding.com/academies/184 class
 
 References:
 https://www.dicoding.com/academies/184/tutorials/8522
